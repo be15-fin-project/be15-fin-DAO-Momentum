@@ -1,0 +1,3 @@
+[submodule "Momentum-FE"]
+	path = Momentum-FE
+	url = https://github.com/be15-fin-project/be15-fin-FE.git
